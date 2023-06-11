@@ -2,7 +2,9 @@
 
   ## Description
 
-  This project provides a functional backend code to make CRUD operations for an e-commerce company. This does not have a front-end yet, but using a program like Insomnia, a manager would be able to create, get, update, and retrieve information from the the product, tag, and category api routes. 
+  This project provides a functional backend code to make CRUD operations for an e-commerce company. This does not have a front-end yet, but using a program like Insomnia, a manager would be able to create, get, update, and retrieve information from the the product, tag, and category API routes. 
+
+  There is no front-end for this appilcation yet, but if a user were to use a program like Insomnia, they should see something like the following screenshot: ![Screenshot of Insomnia](./screenshots/insomnia.png)
   
   This application uses Sequelize to access SQL-based commands and to perform CRUD operations. This application also uses the following packages: [dotenv](https://www.npmjs.com/package/dotenv), [express](https://expressjs.com/), [sequelize](https://sequelize.org/), and [mysql2](https://www.npmjs.com/package/mysql2). 
 
